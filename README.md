@@ -193,6 +193,24 @@ java HelloWorld
 
 ---
 
+# Java Programming Basics
+
+A structured repository containing essential Java programming concepts and foundational examples for beginners.
+
+### 📂 What's Inside
+This repository covers core fundamentals including:
+* **Basics:** Variables, Data Types, and Input/Output
+* **Control Flow:** If-Else, Switch-Case, and Loops
+* **Core Concepts:** Methods, Arrays, and Arithmetic Operators
+
+---
+
+### 🛠️ Prerequisites
+* **Java Development Kit (JDK)** installed on your machine.
+* A terminal or IDE (like VS Code or IntelliJ) to run the files.
+
+---
+
 <h2>🤝 Contributions</h2>
 
 <p>
